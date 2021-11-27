@@ -1,0 +1,17 @@
+.contenedor {
+    height: 100%;
+    width: 100%;
+    background-color: blue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.cuadrado {
+    background-color: blue;
+
+}
+
+.c-1{
+    background-color: aquamarine;
+}
